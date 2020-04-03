@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="Projects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projects_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Projects.jar">
+        <element id="module-output" name="Projects" />
+      </element>
+      <element id="library" level="project" name="Maven: com.weblookandfeel:svg-salamander:1.1.2.2" />
+      <element id="library" level="project" name="Maven: com.mortennobel:java-image-scaling:0.8.6" />
+      <element id="library" level="project" name="Maven: com.jhlabs:filters:2.0.235" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.14" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.27" />
+      <element id="library" level="project" name="Maven: net.htmlparser.jericho:jericho-html:3.3" />
+      <element id="library" level="project" name="Maven: org.jfree:jfreechart:1.5.0" />
+      <element id="library" level="project" name="Maven: com.thoughtworks.xstream:xstream:1.4.9" />
+      <element id="library" level="project" name="Maven: net.sourceforge.jexcelapi:jxl:2.6.12" />
+      <element id="library" level="project" name="Maven: com.weblookandfeel:weblaf-core:1.2.12" />
+      <element id="library" level="project" name="Maven: com.fifesoft:rsyntaxtextarea:2.6.1" />
+      <element id="library" level="project" name="Maven: com.weblookandfeel:weblaf-ui:1.2.12" />
+    </root>
+  </artifact>
+</component>

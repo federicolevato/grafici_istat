@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: levato.view.main.Main
+Class-Path: svg-salamander-1.1.2.2.jar java-image-scaling-0.8.6.jar filt
+ ers-2.0.235.jar log4j-1.2.14.jar slf4j-api-1.7.27.jar jericho-html-3.3.
+ jar jfreechart-1.5.0.jar xstream-1.4.9.jar jxl-2.6.12.jar weblaf-core-1
+ .2.12.jar rsyntaxtextarea-2.6.1.jar weblaf-ui-1.2.12.jar
+
